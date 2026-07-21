@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <g fill="none" stroke="#c2477f" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round">
+  <g fill="none" stroke="#c2543a" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round">
     <!-- outer side petals -->
-    <path d="M32 50C26 42 16 40 6 41c3 8 12 12 26 9z" fill="#e87fb0"/>
-    <path d="M32 50c6-8 16-10 26-9-3 8-12 12-26 9z" fill="#e87fb0"/>
+    <path d="M32 50C26 42 16 40 6 41c3 8 12 12 26 9z" fill="#d98168"/>
+    <path d="M32 50c6-8 16-10 26-9-3 8-12 12-26 9z" fill="#d98168"/>
     <!-- inner side petals -->
-    <path d="M32 50c-2-13-8-21-16-25-1 10 3 20 16 25z" fill="#f29cc3"/>
-    <path d="M32 50c2-13 8-21 16-25 1 10-3 20-16 25z" fill="#f29cc3"/>
+    <path d="M32 50c-2-13-8-21-16-25-1 10 3 20 16 25z" fill="#e3a593"/>
+    <path d="M32 50c2-13 8-21 16-25 1 10-3 20-16 25z" fill="#e3a593"/>
     <!-- center petal -->
-    <path d="M32 50c-6-9-6-21 0-31 6 10 6 22 0 31z" fill="#f7b8d4"/>
+    <path d="M32 50c-6-9-6-21 0-31 6 10 6 22 0 31z" fill="#f0c9bd"/>
   </g>
 </svg>
