@@ -175,6 +175,31 @@
     white-space: nowrap;
     text-align: right;
   }
+  .passions .group-title {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: clamp(22px, 3vw, 28px);
+    font-weight: 400;
+    margin: 0;
+    padding: 22px 4px 4px;
+  }
+  .passions .subworlds {
+    list-style: none;
+    margin: 0 0 10px;
+    padding: 0;
+  }
+  .passions .subworlds li,
+  .passions .subworlds li:last-child {
+    border: 0;
+  }
+  .passions .subworlds a {
+    padding: 12px 4px 12px 26px;
+  }
+  .passions .subworlds a:hover {
+    padding-left: 34px;
+  }
+  .passions .subworlds .title {
+    font-size: clamp(18px, 2.4vw, 22px);
+  }
 
   .contact {
     text-align: center;
@@ -217,6 +242,8 @@
     .passions a { flex-direction: column; gap: 4px; padding: 18px 4px; }
     .passions .domain { text-align: left; }
     .passions a:hover { padding-left: 8px; }
+    .passions .subworlds a { padding: 12px 4px 12px 20px; }
+    .passions .subworlds a:hover { padding-left: 26px; }
   }
 </style>
 </head>
@@ -262,10 +289,19 @@
         <span class="title">Drone videography</span>
         <span class="domain">drone.vibesqueen.com →</span>
       </a></li>
-      <li><a href="https://popoyo.co">
-        <span class="title">Entrepreneurship</span>
-        <span class="domain">popoyo.co →</span>
-      </a></li>
+      <li class="group">
+        <p class="group-title">Entrepreneurship</p>
+        <ul class="subworlds">
+          <li><a href="https://popoyo.co">
+            <span class="title">Nicaragua</span>
+            <span class="domain">popoyo.co →</span>
+          </a></li>
+          <li><a href="https://rosemarydream.vibesqueen.com">
+            <span class="title">Brazil</span>
+            <span class="domain">rosemarydream.vibesqueen.com →</span>
+          </a></li>
+        </ul>
+      </li>
       <li><a href="https://ai.justinalydia.com">
         <span class="title">Building software</span>
         <span class="domain">ai.justinalydia.com →</span>
