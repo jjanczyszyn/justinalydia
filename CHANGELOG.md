@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Add handoff.md session pointer file.
+
 - Fix Brazil sub-tab link to https://rosemary.vibesqueen.com/.
 
 - Fix favicon: the active inline data-URI icon overrode favicon.svg; removed the duplicate and made favicon.svg a proper lotus in the brand terracotta (#c2543a).
