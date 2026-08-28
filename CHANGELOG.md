@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Add the On-call coaching world in second position, linking to https://oncall.justinalydia.com.
+
 - Add handoff.md session pointer file.
 
 - Fix Brazil sub-tab link to https://rosemary.vibesqueen.com/.
