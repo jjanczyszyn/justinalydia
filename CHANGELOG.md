@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Remove the /ciis redirect to the CIIS course WhatsApp group.
+
 - Add /ciis redirect to the CIIS course student WhatsApp group.
 
 - Add the On-call coaching world in second position, linking to https://oncall.justinalydia.com.
